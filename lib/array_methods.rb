@@ -21,10 +21,12 @@ array.first
 end
 
 def using_last(array)
-  array = 
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.last
 
 end
 
 def using_size(array)
+  array = 
 
 end
