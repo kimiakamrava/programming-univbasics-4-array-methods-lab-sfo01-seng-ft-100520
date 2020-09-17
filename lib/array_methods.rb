@@ -8,8 +8,6 @@ end
 def using_sort(arrayb)
    arrayb = ["wow", "I", "am", "really", "learning", "arrays!"]
    arrayb.sort
-    
-  
 end
 
 def using_reverse(array)
